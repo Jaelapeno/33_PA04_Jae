@@ -6,7 +6,7 @@ from the more complete system.
 
 Unit Testing is conducted by the developer.
 
-It is type of white box testing.
+It is type of white and black box testing.
 
 INTEGRATION TESTING
 
@@ -16,3 +16,18 @@ programming teams.
 
 Integration Testing is conducted by programmers.
 It is a type of blackbox testing.
+
+SYSTEM TESING
+System testing is the execution of the software in its final configuration, including integration with other software and hardware system.
+
+System testing is conducted by the developer.
+
+Blackbox testing
+
+ACCEPTANCE TESTING
+
+To evaluate and validate the system's functionality meets the customer's requirements, standards and business needs before the final delivery.
+
+Acceptance testing is conducted by end-users
+
+It is a type of white box testing.
