@@ -6,7 +6,7 @@ from the more complete system.
 
 Unit Testing is conducted by the developer.
 
-It is type of white box testing.
+It is type of white and black box testing.
 
 INTEGRATION TESTING
 
